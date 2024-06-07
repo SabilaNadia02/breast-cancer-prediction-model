@@ -9,6 +9,6 @@ The key challenges against it’s detection is how to classify tumors into malig
 This dataset has been referred from Kaggle.
 
 **Objective:**
-- Understand the Dataset & cleanup (if required).
+- Understand the Dataset & cleanup.
 - Build classification models to predict whether the cancer type is Malignant or Benign.
 - Also fine-tune the hyperparameters & compare the evaluation metrics of various classification algorithms.
